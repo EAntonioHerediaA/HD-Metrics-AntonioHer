@@ -1,11 +1,11 @@
 # HD-Metrics
- 2025 +Líderes : 2do Curso de extensión universitaria del MEF - High Dimensional Econometrics 
+ Curso de Verano de Economía Avanzada 2026 - High Dimensional Econometrics 
 ___
 
 **GitHub Repository**: [https://github.com/DTJCML/HD-Metrics](https://github.com/DTJCML/HD-Metrics)
 
 #### <ins>Description</ins>
-This repository corresponds to [David Tomás Jacho-Chávez](https://www.davidjachochavez.org)' module on '*High Dimensional Econometrics*' for the 2025 [+Líderes : 2do Curso de extensión universitaria del MEF](https://www.gob.pe/institucion/mef/campa%C3%B1as/83695-lideres-2do-curso-de-extension-universitaria-del-mef) at the [Ministerio de Economía y Finanzas del Perú](https://www.mef.gob.pe/).
+This repository corresponds to [David Tomás Jacho-Chávez](https://www.davidjachochavez.org)' module on '*High Dimensional Econometrics*' for the [Curso de Verano de Economía Avanzada 2026](https://www.bcrp.gob.pe/cursosbcrp/curso-de-economia-avanzada-2026.html) at the [Banco Central de Reserva del Perú](https://www.bcrp.gob.pe/en/).
 
 
 #### <ins>Disclaimer</ins>
